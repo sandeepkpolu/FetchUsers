@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fetch Users</string>
+    <string name="user_list_title">User List</string>
+    <string name="ok">Ok</string>
+    <string name="refresh">Refresh</string>
+    <string name="network_error_title">No Internet Connection</string>
+    <string name="network_error_text">Please check your internet connection and try again</string>
+    <string name="user_details_title">User Details</string>
+    <string name="user_id">User Id:</string>
+    <string name="user_name">User Name:</string>
+
+    <string name="base_url">https://fetch-hiring.s3.amazonaws.com/</string>
+</resources>
